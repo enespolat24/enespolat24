@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! I'm a backend developer with a passion for building scalable and reliable systems. I have experience working with a variety of programming languages, including Java, JavaScript, and Go.
+Hi there! I'm a backend developer with a passion for building scalable and reliable systems. I have experience working with a variety of programming technologies, including Laravel, Node.js , and Go.
 
 While I primarily focus on backend development, I've also taken an interest in DevOps and the ways in which it can help improve software development processes. I believe that by embracing DevOps principles, teams can deliver high-quality software more quickly and with fewer errors.
 
