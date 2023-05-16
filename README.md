@@ -18,6 +18,4 @@ Hi there! I'm a backend developer with a passion for building scalable and relia
 
 While I primarily focus on backend development, I've also taken an interest in DevOps and the ways in which it can help improve software development processes. I believe that by embracing DevOps principles, teams can deliver high-quality software more quickly and with fewer errors.
 
-On my GitHub profile, you'll find some of the projects I've worked on, ranging from small utility scripts to large-scale distributed systems. I'm always looking to learn and improve, so if you see anything that catches your eye, feel free to reach out!
-
 When I'm not coding, you can usually find me Playing Guitar🎸, reading📚, or listening to my favourite playlist🎧.
