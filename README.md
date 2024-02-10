@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hi there! I'm a backend developer with a passion for building scalable and reliable systems. I have experience working with a variety of programming technologies, including Go and Java.
 
-While I primarily focus on backend development, I've also taken an interest in DevOps and MLOps.
+While I primarily focus on Backend Engineering, I've also taken an interest in Platform Engineering
