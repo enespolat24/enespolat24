@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 A backend developer with a passion for building scalable and reliable systems using Go. I have experience working with a variety of programming technologies
 
-While I primarily focus on Backend Engineering, I've also taken an interest in Platform Engineering
+While I primarily focus on Backend Engineering, I've also taken an interest in Devops Engineering
