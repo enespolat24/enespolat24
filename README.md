@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A backend developer with a passion for building scalable and reliable systems using Go, Java and Node.JS. I have experience working with a variety of programming technologies
+A backend developer with a passion for building scalable and reliable systems using Go and Java. I have experience working with a variety of programming technologies
 
 While I primarily focus on Backend Engineering, I've also taken an interest in Platform Engineering
